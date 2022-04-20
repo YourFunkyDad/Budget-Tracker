@@ -1,7 +1,7 @@
 {
     "name": "BudgetTracker",
     "short_name": "BudgetTracker",
-    "description": "An app that allows you to track money spent and received.",
+    "description": "An application that allows you track the money you spend and save.",
     "start_url": "/index.html",
     "id": "/index.html",
     "display": "standalone",
