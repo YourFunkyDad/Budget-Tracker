@@ -1,6 +1,7 @@
 body {
   font-size: 120%;
-  font-family: Arial;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  background-color: blanchedalmond;
 }
 
 button, input {
@@ -48,4 +49,9 @@ tr:nth-child(even) {
   overflow: auto;
   width: 90%;
   margin: 0 auto;
+  background-color: white;
+}
+
+#myChart {
+  background-color: white;
 }
